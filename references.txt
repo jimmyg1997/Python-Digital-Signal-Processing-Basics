@@ -1,0 +1,88 @@
+# REFERENCES
+---
+## Analogic signal analysis x(t), Sampling, Reconstruction, FT
+[1] http://fourier.eng.hmc.edu/e101/lectures/Fundamental_Frequency.pdf
+
+[1] https://www.quora.com/Is-there-a-formula-to-add-two-sine-waves-with-different-amplitudes-different-periods-and-different-phase-shifts
+
+[1] https://www.google.com/search?q=convert+cos+wave+to+sine+wave&sxsrf=ALeKk01ddNi0PVsDkwtIYxrf9CVh0r0TyQ:1607439166936&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj77avE0b7tAhUQNOwKHahiB8IQ_AUoAXoECBAQAw&biw=1680&bih=883#imgrc=IL11tFq2NvI4TM
+
+[2 - 3] https://github.com/unpingco/Python-for-Signal-Processing/blob/master/Sampling_Theorem.ipynb
+
+[4] https://www.princeton.edu/~cuff/ele201/kulkarni_text/frequency.pdf
+
+[4] https://docs.scipy.org/doc/scipy-1.1.0/reference/tutorial/fftpack.html
+
+[4] http://snowball.millersville.edu/~adecaria/ESCI386P/esci386-lesson17-Fourier-Transforms.pdf
+
+
+————————————————————————————————————————————————————————————————————————————————
+## Discrete signal analysis x[n], Windowing, DTFT, Lobe interpretation
+[2] http://www.ee.cityu.edu.hk/~hcso/ee3202_6.pdf
+
+[2] https://blogs.mathworks.com/steve/2010/06/25/plotting-the-dtft-using-the-output-of-fft/
+
+[2] https://github.com/PTB-PSt1/PyDynamic/blob/f6ff8b7238a866aeeb44f0780dfd1757b7faad25/PyDynamic/model_estimation/fit_filter.py#L43 (estimation LS method)
+
+[2] https://dsp.stackexchange.com/questions/2445/how-to-estimate-a-transfer-function-from-a-magnitude-only-frequency-response (estimation LS method)
+
+[2] MANUAL + INBUILT https://gist.github.com/TheRealMentor/018aab68dc4bb55bb8d9a390f657bd1d
+
+[2] https://www.dsprelated.com/freebooks/sasp/Rectangular_Window.html 
+
+[2] https://dspillustrations.com/pages/posts/misc/spectral-leakage-zero-padding-and-frequency-resolution.html (notes)
+
+[2] http://web.mit.edu/ruggles/SpectralAnalysis/reference.html (notes)
+
+[2] https://www.mathworks.com/matlabcentral/fileexchange/56360-recursive-least-squares (H(z) estimation LS)
+
+[2] https://github.com/ninja3697/Kernel-Adaptive-Filtering-in-Python/blob/master/RLS.ipynb (H(z) estimation Adaptive filtering)
+
+
+————————————————————————————————————————————————————————————————————————————————
+## LTI systems, Transfer Function H(z) estimation, Impulse response $h[n]$, Step response, Difference equation, Zero-pole map, ROC
+
+[1] https://github.com/MarkusLohmayer/LTI-tutorial/blob/master/LTI-tutorial.ipynb
+
+[1] https://begumdemir.com/assets/docs/dsp/DSP%20Lab%204.pdf
+
+[1] https://www.tu-ilmenau.de/fileadmin/public/mt_ams/Multirate_Signal_Processing/Vorlesung_SS17/02_17-04-12MultirateSigProcMultires.pdf 
+
+[1] https://stackoverflow.com/questions/28462144/python-version-of-matlab-signal-toolboxs-tfestimate (H(z) estimation Adaptive filtering)
+
+[1] https://www.princeton.edu/~cuff/ele301/files/lecture3_2.pdf
+
+[2] https://gist.github.com/crabmusket/5330410
+
+[2] https://colab.research.google.com/github/spatialaudio/digital-signal-processing-lecture/blob/master/recursive_filters/introduction.ipynb#scrollTo=b_ySKbcSouNO 
+
+[2] http://wwwens.aero.jussieu.fr/lefrere/master/SPE/docs-python/scipy-doc/signal.html
+
+[2] https://www.csd.uoc.gr/~hy370/w18/Notes/ZTransform.pdf (Z transform)
+
+[2] https://dsp.stackexchange.com/questions/43669/given-the-input-and-the-output-how-to-determine-the-impulse-response (questions about H(z))
+
+
+[3] https://www.wikiwand.com/en/Pole%E2%80%93zero_plot
+
+[3] https://dsp.stackexchange.com/questions/38646/roc-of-this-lti-system-given-xn-and-yn 
+
+[3] https://www.researchgate.net/post/
+Prove-that-if-a-systems-transfer-function-is-not-proper-order-of-numerator-greater-than-order-of-denominator-then-the-system-is-not-causal (observation)
+
+[3] https://dsp.stackexchange.com/questions/64844/using-roc-to-find-stability-of-system-in-specific-example (roc, stability)
+
+[4] https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.impulse.html
+
+————————————————————————————————————————————————————————————————————————————————
+## LTI systems,  Impulse response $h[n]$, Step response, Difference equation, Zero-pole map, ROC, Frequency Response Y(ejΩ)
+
+[2] https://dsp.stackexchange.com/questions/43893/roc-of-transfer-function
+
+[2] http://b2slab.upc.edu/wp-content/uploads/2014/02/CursP_3.pdf (pass, stop of filters)
+
+[2] https://www.csd.uoc.gr/~hy370/w18/Notes/ZDomain.pdf (p. 18)
+
+[3] https://www.entropy.energy/scholar/node/damped-harmonic-oscillator 
+
+[3] https://arxiv.org/pdf/1403.2170.pdf 
