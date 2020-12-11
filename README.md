@@ -1,5 +1,5 @@
 # 📶 Python-Digital-Signal-Processing-Basics
-<a href="https://ibb.co/CmLdr6z"><img src="https://i.ibb.co/XjHBwDb/Screen-Shot-2020-12-12-at-01-30-38.png" alt="Screen-Shot-2020-12-12-at-01-30-38" border="0"></a>
+<center><a href="https://ibb.co/CmLdr6z"><img src="https://i.ibb.co/XjHBwDb/Screen-Shot-2020-12-12-at-01-30-38.png" alt="Screen-Shot-2020-12-12-at-01-30-38" border="0"></a></center>
 
 ## Getting Started
 The Jupyter notebooks are accessible in various ways
