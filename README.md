@@ -19,12 +19,11 @@ The present notebooks cover fundamental aspects of digital signal processing. A 
 
 The material covers the following topics
 
-* Analogic signal analysis $x(t)$, Sampling, Reconstruction, FT
-* Discrete signal analysis $x[n]$, Windowing, DTFT, Lobe interpretation
-* LTI systems, Transfer Function $H(z)$ estimation,  Impulse response $h[n]$, Step response, Difference equation, Zero-pole map, ROC
-* Frequency Response $Y(e^{jΩ})$ 
+* Analogic signal analysis *x(t)*, Sampling, Reconstruction, FT
+* Discrete signal analysis *x[n]*, Windowing, DTFT, Lobe interpretation
+* LTI systems, Transfer Function *H(z)* estimation,  Impulse response $h[n]$, Step response, Difference equation, Zero-pole map, ROC
+* Frequency Response *Ye<sup>jΩ</sub>*
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 
 ## Libraries used 🚧
