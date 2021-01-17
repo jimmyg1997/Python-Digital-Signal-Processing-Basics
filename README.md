@@ -24,6 +24,7 @@ The material covers the following topics
 * Discrete signal analysis *x[n]*, Windowing, DTFT, Lobe interpretation
 * LTI systems, Transfer Function *H(z)* estimation,  Impulse response *h[n]*, Step response, Difference equation, Zero-pole map, ROC
 * Frequency Response *Y(e<sup>jΩ</sup>)*
+* DTMF decoding, FIR filtering methods (butterworth)
 
 
 
@@ -38,4 +39,5 @@ The material covers the following topics
 |**DTFT**|Discrete-Time Fourier Transform|
 |**LTI**|Linear Time-Invariant System|
 |**ROC**| Region of Convergence|
+|**DTMF**|Dual Tone Multi Frequency|
 
