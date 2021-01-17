@@ -86,3 +86,33 @@ Prove-that-if-a-systems-transfer-function-is-not-proper-order-of-numerator-great
 [3] https://www.entropy.energy/scholar/node/damped-harmonic-oscillator 
 
 [3] https://arxiv.org/pdf/1403.2170.pdf 
+
+
+————————————————————————————————————————————————————————————————————————————————
+## Dual Tone Multi Frequency (DTMF) 
+
+[1] https://gist.github.com/soravux/1ce124315bc6d1f3d430 
+[1] https://www.ee.columbia.edu/~dpwe/classes/e4810-2000-09/projrpts/az209/dspproject/dspproject.pdf 
+
+[2] https://scipy-cookbook.readthedocs.io/items/ButterworthBandpass.htmlxs
+[2] http://www.ee.nmt.edu/~rison/ee451_fall00/labs/lab06/lab06.html
+
+[3] http://aaronscher.com/Course_materials/DSP/DSP_Lab5.html
+
+[4] https://github.com/NitishaS-812k/DTMF-Encoder-Decoder/blob/master/DTMF_Encoder_Decoder.ipynb
+[4] http://www.eecs.umich.edu/courses/eecs206/public/lab/lab7/lab7.pdf
+
+#EXTRA
+https://github.com/Henguin1001/DTMF-Decoder/blob/master/DSP_final_henry_troutman.pdf
+https://github.com/NitishaS-812k/DTMF-Encoder-Decoder/blob/master/DTMF_Encoder_Decoder.ipynb
+https://github.com/Natsukki/DTMF-decoder/blob/master/decoder.py
+https://github.com/ribt/dtmf-decoder/blob/master/dtmf.py
+https://github.com/Henguin1001/DTMF-Decoder/blob/master/filterbank_decode.m
+https://www.ijert.org/research/stimulation-of-dual-tone-multi-frequency-detection-using-bank-of-filters-IJERTV2IS60278.pdf
+file:///Users/jimmyg1997/Downloads/icn_2013_7_40_10014%20(4).pdf
+http://mpastell.com/pweave/_downloads/FIR_design_rst.html
+http://aaronscher.com/Course_materials/DSP/DSP_Lab5.html
+http://dspfirst.gatech.edu/chapters/DSP1st2eLabs/DTMFdecodeLab.pdf
+http://www.eecs.umich.edu/courses/eecs206/public/lab/lab7/lab7.pdf
+http://dspfirst.gatech.edu/chapters/DSP1st2eLabs/DTMFdecodeLab.pdf
+ 
