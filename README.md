@@ -32,7 +32,7 @@ The material covers the following topics
 
 ## Abbreviations
 
-| | |
+| **Abbreviation**| **Explanation**|
 |:-:|:-:|
 |**FT**|Fourier Transform|
 |**DFT**|Discrete Fourier Transform|
