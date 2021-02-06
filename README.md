@@ -4,7 +4,7 @@
 ## Getting Started
 The Jupyter notebooks are accessible in various ways
 
-* Online as (static web pages[https://nbviewer.jupyter.org]
+* Online as [static web pages](https://nbviewer.jupyter.org)
 * Online for interactive usage with binder
 * Local for interactive usage on the user's computer by cloning / downloading the repository from https://github.com/jimmyg1997/Python-Digital-Signal-Processing-Basics
 * Other online services (e.g. Google Colaboratory, Microsoft Azure, ...) provide environments for interactive execution of Jupyter notebooks as well. Local execution on your computer requires a local Jupyter/IPython installation. 
